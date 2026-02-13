@@ -26,7 +26,8 @@ h2 {
 }
 
 p {
-    margin: 6px 0;
+    text-align:center;
+    margin: 6px;
     color: #555;
 }
 
@@ -84,4 +85,5 @@ a:hover {
     color: #888;
     margin-top: 8px;
 }
+
 
