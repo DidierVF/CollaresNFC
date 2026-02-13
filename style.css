@@ -16,7 +16,7 @@ body {
 
 h1 {
     text-align: center;
-    margin-bottom: 17px;
+    margin-bottom: 20px;
 }
 
 h2 {
@@ -40,7 +40,6 @@ a:hover {
 }
 
 .mensaje {
-    text-align:center;
     margin-top: 20px;
     padding: 12px;
     background-color: #e8f5e9;
@@ -85,6 +84,7 @@ a:hover {
     color: #888;
     margin-top: 8px;
 }
+
 
 
 
