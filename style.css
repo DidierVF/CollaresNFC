@@ -26,7 +26,6 @@ h2 {
 }
 
 p {
-    text-align:center;
     margin: 6px;
     color: #555;
 }
@@ -41,6 +40,7 @@ a:hover {
 }
 
 .mensaje {
+    text-align:center;
     margin-top: 20px;
     padding: 12px;
     background-color: #e8f5e9;
@@ -85,5 +85,6 @@ a:hover {
     color: #888;
     margin-top: 8px;
 }
+
 
 
